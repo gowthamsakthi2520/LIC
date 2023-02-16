@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 hello world
 
 
 
 remaing na change in local folder la vsula change pannan
-=======
+
 <html>hello world
 ok.this my coorection in this file..
 </html>
->>>>>>> ca71fcc41d9b667f22c9aafb4756af5ce9a2fb75
+
